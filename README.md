@@ -1,6 +1,8 @@
 # Swift-Check
 Created by: Sujeethan, Aarsh, Dhruv
 
+<img src="https://swift-check.com/images/logo.png" width="150px" height="150px">
+
 Hack the North 2018
 
 Used libraries:
