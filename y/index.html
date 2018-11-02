@@ -27,6 +27,22 @@
 <script type = "text/javascript" src="js/lib/ResizeSensor.js"></script>
 <script type = "text/javascript" src="js/lib/ElementQueries.js"></script>
 <script type = "text/javascript" src= "js/AngularCode.js"></script>
+
+<!-- Load Firebase API -->
+
+<script src="https://www.gstatic.com/firebasejs/5.5.1/firebase.js"></script>
+<script>
+  // Initialize Firebase
+  var config = {
+    apiKey: "AIzaSyC9kDpmiL_5nUqD449NoODjTtRBG6a-JeY",
+    authDomain: "swift-check.firebaseapp.com",
+    databaseURL: "https://swift-check.firebaseio.com",
+    projectId: "swift-check",
+    storageBucket: "swift-check.appspot.com",
+    messagingSenderId: "314960586040"
+  };
+  firebase.initializeApp(config);
+</script>
 	
 <!-- Load ML5.js -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.6.0/p5.min.js"></script>
