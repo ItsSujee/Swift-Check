@@ -9,8 +9,11 @@ Hack the North 2018
 
 Used libraries:
   <b>p5.js</b> https://p5js.org/
+  
   <b>ml5.js</b> https://ml5js.org/
+  
   <b>tensorflow.js</b> https://js.tensorflow.org/
+  
   <b>angular.js</b> https://angularjs.org/
   
   Real time fruit/vegetable detection for self check out in big name retail stores
